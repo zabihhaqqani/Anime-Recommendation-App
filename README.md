@@ -5,6 +5,8 @@
 
 A Simple anime recommendation app made using React.
 
+- My anime recommendations in different genres do check them out.
+
 # Contributing
 Pull requests are always and most welcomed. For major changes, please open an issue first to discuss what you would like to change.
 
